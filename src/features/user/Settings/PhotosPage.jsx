@@ -1,11 +1,7 @@
 import React from 'react'
 
 function PhotosPage() {
-  return (
-    <div>
-      
-    </div>
-  )
+  return <h1>Photos Page</h1>
 }
 
 export default PhotosPage
